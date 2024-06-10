@@ -11,7 +11,7 @@ public class Task_1000 {
         int secondNumber = scanner.nextInt();
 
         int sum = firstNumber + secondNumber;
-        
+
         System.out.println(sum);
     }
 }
